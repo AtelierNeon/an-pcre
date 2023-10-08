@@ -1,0 +1,8 @@
+{
+    "cmake.buildDirectory": "${workspaceFolder}/build/vscode",
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.configureSettings": {
+        "PCRE_WITHOUT_APPS": "OFF",
+        "PCRE_WITHOUT_TEST_APPS": "OFF"
+    }
+}
